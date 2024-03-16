@@ -9,6 +9,8 @@ hero:
     - theme: brand
       text: 阅读笔记
       link: /markdown-examples
+  image:
+    src: /cover.png
       
 ---
 
